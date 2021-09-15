@@ -2,10 +2,10 @@
 
 This projects shows how to use Tableau Extensions API without using NPM. Here are examples with the SuperStore sample dataset in Tableau.
 
-**Overview Dashboard**
+#### Overview Dashboard
 ![](img/bubble.png)
 
-**Products Dashboard**
+#### Products Dashboard
 ![](img/sankey.png)
 
 ### Motivation
@@ -39,6 +39,7 @@ See Tableau Extensions API documentation [here](https://tableau.github.io/extens
 5. Grant access and the extension should show up.
 
 *Below is the pop-up from step 3.*
+
 ![Step 3](img/popup.png)
 
 ### Refreshing Dashboard with Code Changes
